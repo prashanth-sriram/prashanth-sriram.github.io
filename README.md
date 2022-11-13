@@ -1,2 +1,2 @@
-# prashanth-sriram.github.io
-Personal website
+# Personal Website
+Created using Quarto
