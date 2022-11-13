@@ -1,0 +1,22 @@
+---
+title: "About Me"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://github.com/prashanth-sriram
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/prashanth-sriram-459ba231/ 
+    - icon: github
+      text: Github
+      href: https://github.com/prashanth-sriram
+---
+
+## Prashanth Sriram
+
+Supply chain professional based out of the SF bay area. This is a personal blog, and views expressed here are my own.
+
+Reach out to me for suggestions on what I can do on this blog! Social media links below.

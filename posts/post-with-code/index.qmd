@@ -1,0 +1,12 @@
+---
+title: "Post With Code"
+author: "Prashanth Sriram"
+date: "2022-11-14"
+categories: [news, code, analysis]
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```

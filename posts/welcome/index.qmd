@@ -1,0 +1,12 @@
+---
+title: "Welcome To Muscle Memory Data Science!"
+author: "Prashanth Sriram"
+date: "2022-11-13"
+categories: [news]
+---
+
+As a data science professional, I am working on building up by "muscle memory" for doing common tasks quickly, as well as staying abreast of the latest tools and developments. This involves learning by doing - and sharing what I learn in the process is how I am giving back to the wonderful rstats and pydata communities.
+
+This blog is where I document everything - simple or complex, dull or interesting - as I work on practicing and developing my skills.
+
+I hope this is useful for others and not just for me. Feel free to share your thoughts and suggestions in the comments section of the posts! The [about](/about.html "about") page has my contact details if you wish to reach out to me.
